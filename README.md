@@ -1,6 +1,6 @@
 <h1 style="text-align:center"> Alzheimer Prediction Using Gray Matter Density
  </h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/Alzheimer.png">
 
 ## Motivation: 
 Alzheimer’s disease (AD) affects over 20 million people worldwide. Identification of AD at an
